@@ -1,1 +1,1 @@
-![screenshot](RWFD-Projects/RWFD_Hospitality_Dashboard.jpg)
+![screenshot](RWFD_Hospitality_Dashboard.jpg)
